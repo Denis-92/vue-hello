@@ -2,7 +2,7 @@ console.log('JS OK!');
 
 const helloVue = new Vue({
 
-    el: '#root',
+    el: '#app',
     data: {
         vueHello: "Vue Hello"
     }
